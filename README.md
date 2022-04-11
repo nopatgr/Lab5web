@@ -12,3 +12,9 @@ Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti ber
 <br>
 
 ![Lab5web](gambar/awalan2.png)
+
+## 1. Javascrip Dasar <br>
+
+Pemakaian Alert sebagai property window.
+
+![Lab5web](gambar/js%20dasar1.png)
